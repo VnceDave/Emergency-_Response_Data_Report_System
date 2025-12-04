@@ -4,7 +4,7 @@
 <b>IT 2112 </b> <br/>
 Maneja, Vince Dave C. <br/>
 Maneja, Cedrick Paul V. <br/>
-Leal Lealyn 
+Leal Lealyn B.
 </p>
 
 ---
@@ -144,8 +144,8 @@ Choose: 1
 
 | Photo | Name | Role |
 |-------|------|------|
-| <img src="static/con1.png" width="80"> | Maneja, Vince Dave | Lead Developer / System Designer |
-| <img src="static/con2.png" width="80"> | Leal Lealyn  | File Handling Specialist / System Designer |
+| <img src="static/con1.png" width="80"> | Maneja, Vince Dave C. | Lead Developer / System Designer |
+| <img src="static/con2.png" width="80"> | Leal Lealyn B. | File Handling Specialist / System Designer |
 | <img src="static/con3.png" width="80"> | Maneja Cedrick Paul V. | Feature Developer / System Designer |
 
 > Replace images inside **/static** folder to show contributor photos.
