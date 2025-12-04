@@ -30,11 +30,4 @@ Users can:
 
 ## ⊹˚₊‧ Project Structure
 
-📂 src/
-└── 📂 erds/
-├── ☕ Main.java
-├── ☕ CRUD_Function.java
-├── ☕ Report.java
-├── ☕ File_Handling.java
-└── ☕ ConsoleUI.java
 
