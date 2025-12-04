@@ -1,11 +1,11 @@
-𐔌 .⋮ ERDS — Emergency Report Documentation System .ᐟ ֹ ₊ ꒱  
-Your console-based emergency incident reporting system.  
-
-IT 2112
-Maneja, Vince Dave C.
-Maneja, Cedrick Paul V.
+<h1 align = "center">𐔌 .⋮ ERDS — Emergency Report Documentation System .ᐟ ֹ ₊ ꒱</h1>
+<h3 align = "center">Your console-based emergency incident reporting system.</h3>
+<p align = "center">
+<b>IT 2112 </b> <br/>
+Maneja, Vince Dave C. <br/>
+Maneja, Cedrick Paul V. <br/>
 Leal Lealyn 
-
+</p>
 
 ---
 
