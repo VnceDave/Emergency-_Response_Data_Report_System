@@ -25,6 +25,11 @@ Users can:
 - 🔐 Login as *Authorized Personnel* for restricted actions  
 - 💾 Auto-save all changes
 
+
+---
+
+## ⊹˚₊‧ Project Structure
+
 📂 src/
 └── 📂 erds/
 ├── ☕ Main.java
@@ -32,9 +37,4 @@ Users can:
 ├── ☕ Report.java
 ├── ☕ File_Handling.java
 └── ☕ ConsoleUI.java
-
-
----
-
-## ⊹˚₊‧ Project Structure
 
