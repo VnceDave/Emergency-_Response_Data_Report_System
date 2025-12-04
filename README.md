@@ -9,7 +9,7 @@ Leal, Lealyn B.
 
 ---
 
-## ⊹˚₊‧ Overview
+## ⊹˚₊‧ Overview.
 
 ERDS is a console-based Java application designed to record, search, edit, and manage emergency incident reports directly through the terminal.
 
