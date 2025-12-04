@@ -94,13 +94,12 @@ Menu actions in Main.java trigger different operations dynamically depending on 
 ## ⊹˚₊‧ Example Output
 
 ```
---- EMERGENCY REPORT DOCUMENTATION SYSTEM ---
+--- EMERGENCY RESPONSE DATA SYSTEM ---
 
-User
+[1] User
+[2] Authorized Person
+[3] Exit
 
-Authorized Person
-
-Exit
 Choose: 1
 
 [INFO] Successfully logged in as USER.
@@ -108,19 +107,16 @@ Press ENTER to continue...
 
 ===== USER MENU =====
 
-Add Report
+1) Add Report
+2) Edit Report
+3) Delete Report
+4) Show Reports (brief)
+5) Search Report
+6) About System
+7) Back to Main
 
-Edit Report
+====================
 
-Delete Report
-
-Show Reports (brief)
-
-Search Report
-
-About System
-
-Back to Main
 Choose: 1
 
 ```
