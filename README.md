@@ -23,7 +23,15 @@ Users can:
 - ❌ Delete a report  
 - 🔍 Search by ID, event, or location  
 - 🔐 Login as *Authorized Personnel* for restricted actions  
-- 💾 Auto-save all changes  
+- 💾 Auto-save all changes
+
+📂 src/
+└── 📂 erds/
+├── ☕ Main.java
+├── ☕ CRUD_Function.java
+├── ☕ Report.java
+├── ☕ File_Handling.java
+└── ☕ ConsoleUI.java
 
 
 ---
