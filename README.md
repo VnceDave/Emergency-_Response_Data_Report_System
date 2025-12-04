@@ -187,7 +187,7 @@ We also appreciate our classmates and peers for the encouragement and support du
 
 ### DISCLAIMER
 This project is provided for academic and learning purposes only.  
-Students are encouraged to use it as reference and not copy it entirely.
+
 
 
 
