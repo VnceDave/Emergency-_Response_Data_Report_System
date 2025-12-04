@@ -30,6 +30,13 @@ Users can:
 
 ## ⊹˚₊‧ Project Structure
 
+📂 `src/`
+└── 📂 `erds/`
+    ├── ☕ `Main.java`
+    ├── ☕ `CRUD_Function.java`
+    ├── ☕ `Report.java`
+    ├── ☕ `File_Handling.java`
+    └── ☕ `ConsoleUI.java`
 
 **Main.java** — Entry point of the program; handles main menu + loading/saving.  
 **CRUD_Function.java** — Add / edit / delete / search / list operations.  
