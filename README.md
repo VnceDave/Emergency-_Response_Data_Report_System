@@ -4,7 +4,7 @@
 <b>IT 2112 </b> <br/>
 Maneja, Vince Dave C. <br/>
 Maneja, Cedrick Paul V. <br/>
-Leal Lealyn B.
+Leal, Lealyn B.
 </p>
 
 ---
@@ -166,7 +166,7 @@ Choose: 1
 <tr>
     <td><img src="static/lealyn.png" width="100" height="100"> </td>
     <td><strong>Lealyn B. Leal</strong> <br/>
-    <a href="https://github.com/Lia29Leal" target="_blank">
+    <a href="https://github.com/Lia-Leal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
         </a>
     </td>
