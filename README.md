@@ -138,13 +138,41 @@ Choose: 1
 
 ## ⊹˚₊‧ Contributors
 
-| Photo | Name | Role |
-|-------|------|------|
-| <img src="static/con1.png" width="80"> | Maneja, Vince Dave C. | Lead Developer / System Designer |
-| <img src="static/con2.png" width="80"> | Leal Lealyn B. | File Handling Specialist / System Designer |
-| <img src="static/con3.png" width="80"> | Maneja Cedrick Paul V. | Feature Developer / System Designer |
 
-> Replace images inside **/static** folder to show contributor photos.
+<table>
+<tr>
+    <th> &nbsp; </th>
+    <th> Name </th>
+    <th> Role </th>
+</tr>
+<tr>
+    <td><img src="static/vince_dave.png" width="100" height="100"> </td>
+    <td><strong>Vince Dave C. Maneja</strong> <br/>
+    <a href="https://github.com/marieemoiselle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
+        </a>
+    </td>
+    <td>Lead Developer/System Designer</td>
+</tr>
+<tr>
+    <td><img src="static/cedrick_paul.png" width="100" height="100"> </td>
+    <td><strong>Cedrick Paul V. Maneja</strong> <br/>
+    <a href="https://github.com/jeisquaredd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub">
+        </a>
+    </td>
+    <td>Feature Developer</td>
+</tr>
+<tr>
+    <td><img src="static/lealyn.png" width="100" height="100"> </td>
+    <td><strong>Lealyn B. Leal</strong> <br/>
+    <a href="https://github.com/digZy030509" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
+        </a>
+    </td>
+    <td>System Architect</td>
+</tr>
+</table>
 
 
 ---
