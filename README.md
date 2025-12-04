@@ -31,3 +31,17 @@ Users can:
 ## ⊹˚₊‧ Project Structure
 
 
+**Main.java** — Entry point of the program; handles main menu + loading/saving.  
+**CRUD_Function.java** — Add / edit / delete / search / list operations.  
+**Report.java** — Serializable data model for one report.  
+**File_Handling.java** — Manages saving/loading of `reports.dat`.  
+**ConsoleUI.java** — User and admin menu interfaces.  
+
+
+---
+
+## ⊹˚₊‧ How to Run the Program
+
+Compile:
+
+
