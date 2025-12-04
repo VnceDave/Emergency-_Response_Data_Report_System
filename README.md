@@ -152,7 +152,7 @@ Choose: 1
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
         </a>
     </td>
-    <td>Lead Developer/System Designer</td>
+    <td>System Designer</td>
 </tr>
 <tr>
     <td><img src="static/cedrick_paul.png" width="100" height="100"> </td>
