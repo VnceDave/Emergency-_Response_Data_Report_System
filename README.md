@@ -148,7 +148,7 @@ Choose: 1
 <tr>
     <td><img src="static/vince_dave.png" width="100" height="100"> </td>
     <td><strong>Vince Dave C. Maneja</strong> <br/>
-    <a href="https://github.com/marieemoiselle" target="_blank">
+    <a href="https://github.com/VnceDave" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
         </a>
     </td>
@@ -157,7 +157,7 @@ Choose: 1
 <tr>
     <td><img src="static/cedrick_paul.png" width="100" height="100"> </td>
     <td><strong>Cedrick Paul V. Maneja</strong> <br/>
-    <a href="https://github.com/jeisquaredd" target="_blank">
+    <a href="https://github.com/sidrikspol" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub">
         </a>
     </td>
@@ -166,7 +166,7 @@ Choose: 1
 <tr>
     <td><img src="static/lealyn.png" width="100" height="100"> </td>
     <td><strong>Lealyn B. Leal</strong> <br/>
-    <a href="https://github.com/digZy030509" target="_blank">
+    <a href="https://github.com/Lia29Leal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
         </a>
     </td>
