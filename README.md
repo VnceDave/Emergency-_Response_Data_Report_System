@@ -50,7 +50,7 @@ Users can:
 
 ## ⊹˚₊‧ How to Run the Program
 
-Open your terminal in the src/erds folder and run:
+Open the terminal in the src/erds folder and run
 
 
 
