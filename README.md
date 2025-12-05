@@ -127,9 +127,34 @@ Choose: 1
 ## ⊹˚₊‧ reports.dat Snippet (Sample)
 
 ```
-2025-11-29 | REPORT-001 | Earthquake | Bauan | Survivors: 15 | Est. Damage: ₱1,000,000
-2025-11-30 | REPORT-002 | Fire | Taysan | Survivors: 6 | Est. Damage: ₱120,000
-2025-12-01 | REPORT-003 | Flood | San Pascual | Survivors: 21 | Est. Damage: ₱870,000
+ID: REPORT-003
+Event: BAHA
+Date: 2025-12-04
+Location: BATANGAS CITY
+Severity: HIGH
+Survivors: 99
+Injured: 12
+Missing: 334
+Deceased: 5
+Totally Damaged Houses: 900
+Partially Damaged Houses: 900
+Estimated Damage Cost: P63000000
+
+Evacuation Centers:
+CENTER       TOTAL      OCCUPIED  AVAILABLE  STATUS
+BATS. COLISEUM 5000       0         5000       FREE
+BATSU ALANGILAN 3000       0         3000       FREE
+BAUAN COMPLEX 6000       0         6000       FREE
+
+Suggested Center: BATS. COLISEUM | Available Slots: 5000
+
+PH Emergency Hotlines:
+~ 911: Police / Fire / Medical
+~ 117: Philippine National Police
+~ 143: Red Cross (Disaster & Emergency)
+~ 1669: Ambulance / Medical Emergencies
+~ (02)8527-3877: Philippine Coast Guard
+
 ```
 
 
