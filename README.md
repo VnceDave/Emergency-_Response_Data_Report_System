@@ -1,5 +1,5 @@
 <h1 align = "center">𐔌 .⋮ ERDS — Emergency Response Data Report System .ᐟ₊꒱</h1>
-<h3 align = "center">Your console-based emergency incident reporting system.</h3>
+<h3 align = "center">console-based emergency incident reporting system.</h3>
 <p align = "center">
 <b>IT 2112 </b> <br/>
 Maneja, Vince Dave C. <br/>
