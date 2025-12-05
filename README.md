@@ -2,9 +2,9 @@
 <h3 align = "center">console-based emergency incident reporting system.</h3>
 <p align = "center">
 <b>IT 2112 </b> <br/>
-Maneja, Vince Dave C. <br/>
+Leal, Lealyn B. <br/>
 Maneja, Cedrick Paul V. <br/>
-Leal, Lealyn B.
+Maneja, Vince Dave C.
 </p>
 
 ---
